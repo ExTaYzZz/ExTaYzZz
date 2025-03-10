@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <Мой первый сайт>
+    Мой первый сайт
 </head>
 <body>
     <h1>Добро пожаловать на мой сайт!</h1>
