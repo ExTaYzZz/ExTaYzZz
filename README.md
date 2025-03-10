@@ -10,7 +10,7 @@
     <p>Это мой первый сайт, созданный с нуля на HTML.</p>
 </body>
 </html>
-<img src="wallhaven-259621.jpg" alt="Котик">
+<img src="[wallhaven-259621.jpg](https://a.d-cd.net/WryrSas7wYfXEa-_dRgoDx6wvIc-960.jpg)" alt="Котик">
 <a href="https://steamcommunity.com/id/extayzzzyttw_/">Мой стим профиль</a>
 </body>
 </html>
